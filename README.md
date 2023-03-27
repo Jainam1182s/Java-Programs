@@ -1,2 +1,2 @@
 # Java-Programs
-Having College Java Programs
+College Java Programs
