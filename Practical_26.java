@@ -48,7 +48,6 @@ class Car extends FourWheeler {
 
 class SUV extends FourWheeler {
     public SUV() {
-        //super();
         String type = "SUV";
         System.out.println("Type of vehicle  := " + type);
         System.out.println("Number of wheels := " + noOfWheels);
