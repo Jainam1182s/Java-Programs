@@ -1,8 +1,6 @@
-// =:DOUBT:=
 
 import java.util.Scanner;
-
-//import static java.lang.System.exit;
+import static java.lang.System.exit;
 
 public class Practical_20 {
     int[] arr;
@@ -78,7 +76,6 @@ public class Practical_20 {
             pr.push(ele);
         }
 
-        outer:
         while (pr.top >= -1) {
             System.out.println("1.DISPLAY");
             System.out.println("2.POP");
@@ -102,8 +99,7 @@ public class Practical_20 {
                     System.out.println();
                     break;
                 case 4 :
-                    break outer;
-                    //exit(1);
+                    exit(1);
 
                 default :
                     System.out.println("Invalid");
