@@ -8,18 +8,13 @@ public class Practical_22 {
         this.name = "Jainam";
         System.out.println(this.name);
         this.enroll = 2101201075;
-        //System.out.println(this.enroll);
         this.marks = 488;
-        //System.out.println(this.marks);
     }
 
     Practical_22(String name, int enroll, int marks) {
         this.name = name;
-        //System.out.println(name);
         this.enroll = enroll;
-        //System.out.println(enroll);
         this.marks = marks;
-        //System.out.println(marks);
     }
 
     public void display() {
