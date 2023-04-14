@@ -6,7 +6,6 @@ public class Practical_13 {
         System.out.println("Enter a Decimal Number as String := ");
         String s = sc.nextLine();
         int index = s.indexOf('.');
-        //System.out.println(s.indexOf('.'));
         String s2 = s.substring(0,index);
         String s1 = s.substring(index+1);
 
