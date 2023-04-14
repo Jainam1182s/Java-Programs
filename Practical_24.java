@@ -12,13 +12,11 @@ public class Practical_24 {
         name = sc.nextLine();
         System.out.print("Enter the age := ");
         age = sc.nextInt();
-        //System.out.print("Enter the Emp_no := ");
         System.out.print("Enter the Salary := ");
         salary = sc.nextInt();
     }
 
     public void display() {
-        //emp_no = Stream.generate(() -> (new Random()).nextInt(10)).distinct().limit(10);
         System.out.println("Employee Name := " + name);
         System.out.println("Employee Age := " + age);
         System.out.println("Employee No. := " + emp_no);
@@ -33,7 +31,6 @@ public class Practical_24 {
             pr[i].getInput();
 
             System.out.println("**** Data Entered as below ****");
-            //pr[i].emp_no = ++pr[i--].emp_no;
             pr[i].emp_no = pr[0].emp_no + i;
             pr[i].display();
 
