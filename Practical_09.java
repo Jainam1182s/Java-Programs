@@ -18,7 +18,6 @@ public class Practical_09 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Number or string := ");
         String s = sc.next();
-        //System.out.println(s);
         checkPalindrome(s);
     }
 }
