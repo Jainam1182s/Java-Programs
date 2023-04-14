@@ -41,7 +41,6 @@ public class Practical_25 {
 
         System.out.print("Enter Employee ID := ");
         int empNo = sc.nextInt();
-        //System.out.println("Employee information for empNo: " + empNo);
         boolean found = false;
         for (Employee emp : employees) {
             if (emp.no == empNo) {
@@ -71,12 +70,3 @@ public class Practical_25 {
         }
     }
 }
-
-
-/*
-Enhanced For Loop [for-each loop] also written as :-
-for (int i = 0; i < employees.length; i++) {
-    Employee emp = employees[i];
-    // loop body
-}
-*/
