@@ -13,11 +13,6 @@ public class Practical_04 {
                     flag = 1;
                     break;
                 }
-                /*
-                else {
-                     System.out.println(n+" is prime number.");
-                }
-                */
             }
             if(flag == 0) {
                 System.out.println(n+" is prime number.");
