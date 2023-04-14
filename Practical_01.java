@@ -20,9 +20,7 @@ public class Practical_01 {
             float y = (((a*f)-(e*c)) / ((a*d)-(b*c))) / f ;
 
             System.out.println("x = " + x);
-            //System.out.printf("x = %.2f\n", x);
             System.out.println("y = " + y);
-
         }
     }
 }
