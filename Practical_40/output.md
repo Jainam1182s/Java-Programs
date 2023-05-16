@@ -1,13 +1,12 @@
 Before Mouse Pressed.
 
-
-![Screenshot 2023-05-16 064531](https://github.com/Jainam1182s/Java-Programs/assets/128902428/e25c1f69-44fe-4967-8f61-c4de03b835e0)
+![Screenshot 2023-05-16 064456](https://github.com/Jainam1182s/Java-Programs/assets/128902428/7852cb12-3808-4c3e-bac3-797890cc420a)
 
 
 When Mouse Pressed.
 
 
-![Screenshot 2023-05-16 064456](https://github.com/Jainam1182s/Java-Programs/assets/128902428/7852cb12-3808-4c3e-bac3-797890cc420a)
+![Screenshot 2023-05-16 064531](https://github.com/Jainam1182s/Java-Programs/assets/128902428/e25c1f69-44fe-4967-8f61-c4de03b835e0)
 
 
 After Mouse Pressed.
