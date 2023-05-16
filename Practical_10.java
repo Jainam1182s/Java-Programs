@@ -1,4 +1,12 @@
-//import java.util.*;
+/* Question := Write an interactive program to print a string entered in a pyramid. For instance, the 
+               string “stream” has to be displayed as follows:
+               S
+              S t
+             S t r
+            S t r e
+           S t r e a
+          S t r e a m     */
+
 import java.util.Scanner;
 
 public class Practical_10 {
@@ -20,3 +28,16 @@ public class Practical_10 {
         pattern(s);
     }
 }
+
+/* Output := 
+        Enter a String := 
+        Vadodara
+                V 
+               V a 
+              V a d 
+             V a d o 
+            V a d o d 
+           V a d o d a 
+          V a d o d a r 
+         V a d o d a r a 
+*/
