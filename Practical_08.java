@@ -1,3 +1,5 @@
+/* Question := Write a program to count the number of words that start with capital letters. */
+
 import java.util.Scanner;
 
 public class Practical_08 {
@@ -13,6 +15,12 @@ public class Practical_08 {
                 count++;
             }
         }
-        System.out.println(count);
+        System.out.println("Total Capital Letters := " + count);
     }
 }
+
+/* Output := 
+        Enter a String := 
+        We Are In Vadodara.
+        Total Capital Letters := 4
+*/
