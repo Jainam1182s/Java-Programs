@@ -1,3 +1,9 @@
+/* Question := Body Mass Index (BMI) is a measure of health on weight. It can be calculated by taking your weight in 
+               kilograms and dividing by the square of your height in meters. Write a program that prompts the user
+               to enter a weight in pounds and height in inches and displays the BMI.
+                
+               Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters */
+
 import java.util.Scanner;
 
 public class Practical_02 {
@@ -20,3 +26,11 @@ public class Practical_02 {
 
     }
 }
+
+/* Output := 
+        Weight in pounds:= 25
+        Weight in kilograms:= 11.339809
+        Height in inches:= 35
+        Height in meters:=0.889
+        Body Mass Index(BMI):= 14.348359
+*/
