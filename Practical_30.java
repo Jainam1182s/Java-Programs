@@ -1,3 +1,6 @@
+/* Question := Write a program to generate customized exception named ArgumentGreaterThanOne if there is 
+               more than one argument in command line. */
+ 
 import java.lang.Exception;
 class ArgumentGreaterThanOne extends Exception {
     ArgumentGreaterThanOne(String e){
@@ -22,3 +25,8 @@ public class Practical_30 {
     }
 }
 
+/* Output := 
+        Program is running Successfully.
+*/
+
+//Practical-30 And Practical-32 Are Same...
