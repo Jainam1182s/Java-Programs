@@ -1,3 +1,5 @@
+/* Question := Write a program to implement linked list using collection class. */
+
 import java.util.LinkedList;
 
 public class Practical_33 {
@@ -28,3 +30,12 @@ public class Practical_33 {
         System.out.println("Final linked list: " + list);
     }
 }
+
+/* Output := 
+        Linked list: [Het, Vasu, Amar, Kartik, Anuja]
+        Updated linked list: [Het, Vasu, Jainam, Kartik, Anuja]
+        Element at position 4: Anuja
+        Index of 'Vasu': 1
+        Contains 'Kartik': true
+        Final linked list: []
+*/
