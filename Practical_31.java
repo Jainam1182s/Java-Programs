@@ -1,3 +1,6 @@
+/* Question := Write the bin2Dec (string binary String) method to convert a binary string into a decimal number. Implement the 
+               bin2Dec method to throw a NumberFormatException if the string is not a binary string. */
+
 class NumberFormatException extends Exception{
     public NumberFormatException(String message){
         super(message);
@@ -34,3 +37,6 @@ public class Practical_31 {
         }
     }
 }
+
+/* Output := 
+        Input string is not a valid binary string. */
