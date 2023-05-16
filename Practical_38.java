@@ -1,3 +1,6 @@
+/* Question := Write a program that creates a button and generate a click event to 
+               display ”Welcome to JavaFx ”.*/
+
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
