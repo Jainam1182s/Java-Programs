@@ -1,3 +1,5 @@
+/* Question := Write a program to copy the content of one file to another file. */
+
 import java.io.*;
 import java.util.*;
 
@@ -19,3 +21,9 @@ class Practical_37{
         fout.close();
     }
 }
+
+/* Output := 
+        Enter source file name := Jainam
+        Enter destination file name := Study
+        Copy finish...
+*/
