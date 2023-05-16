@@ -1,3 +1,5 @@
+/* Question := Write a program to find that given number or string is palindrome or not. */
+
 import java.util.Scanner;
 
 public class Practical_09 {
@@ -21,3 +23,9 @@ public class Practical_09 {
         checkPalindrome(s);
     }
 }
+
+/* Output := 
+        Enter Number or string := 
+        mom
+        mom is Palindrome.  
+*/
