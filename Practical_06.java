@@ -1,3 +1,6 @@
+/* Question := Write a program that prompts the user to enter a letter and check whether a letter 
+               is a vowel or consonant.*/
+
 import java.util.Scanner;
 
 public class Practical_06 {
@@ -14,8 +17,14 @@ public class Practical_06 {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a Character := ");
+        System.out.println("Enter a Letter := ");
         char x = sc.next().charAt(0);
         checkVowel(x);
     }
 }
+
+/* Output := 
+        Enter a Letter := 
+        d
+        Consonant
+*/
