@@ -1,3 +1,6 @@
+/* Question := Write a program that prompts the user to enter three integers and display
+               the maximum number among these numbers. */
+
 import java.util.Scanner;
 
 public class Practical_05 {
@@ -32,3 +35,11 @@ public class Practical_05 {
         maxNo(a,b,c);
     }
 }
+
+/* Output := 
+        Enter Three Numbers := 
+        23
+        65
+        12
+        65 is Maximum.
+*/
