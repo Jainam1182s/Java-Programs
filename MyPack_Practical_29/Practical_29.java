@@ -1,3 +1,6 @@
+/* Question := Make a package called “MyPack” in which declare one class called “PackDemo” which displays the
+               string from three different classes of that same package.*/
+
 package MyPack_Practical_29;
 
 public class Practical_29 {
@@ -10,3 +13,9 @@ public class Practical_29 {
         a3.display();
     }
 }
+
+/* Output := 
+        This is Class1.
+        This is Class2.
+        This is Class1.
+*/
