@@ -1,3 +1,6 @@
+/* Question := Write a program to list all the files in the given directory, and list all the file 
+               attributes. */
+
 import java.io.File;
 public class Practical_36 {
 
@@ -24,3 +27,25 @@ public class Practical_36 {
     }
 }
 
+/* Output := 
+        File name: FileHandling.txt
+        Size: 30 bytes
+        Readable: true
+        Writable: true
+        Executable: true
+        Hidden: false
+
+        File name: Jainam2.php
+        Size: 187 bytes
+        Readable: true
+        Writable: true
+        Executable: true
+        Hidden: false
+
+        File name: Jainam3.php
+        Size: 217 bytes
+        Readable: true
+        Writable: true
+        Executable: true
+        Hidden: false 
+ */
