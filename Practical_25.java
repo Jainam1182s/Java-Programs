@@ -1,3 +1,8 @@
+/*Question := Write a program to create a class called Teaching having one member nameOfSubject
+              and another class called NonTeaching having member typeOfWork. Both the classes 
+              extend the Employee class. Provide information of two Teaching and two NonTeaching 
+              employees. Print all the information of employee by the given empNo. */
+
 import java.util.Scanner;
 
 class Teaching extends Employee{
@@ -70,3 +75,15 @@ public class Practical_25 {
         }
     }
 }
+
+/*
+Output :=
+Enter Employee ID := 2001
+
+===: Non-Teaching Staff :===
+Employee ID     :=  2001
+Employee Name   :=  Nikhil
+Employee Age    :=  32
+Employee Salary :=  46000
+Type of Work    :=  Clerical
+*/
