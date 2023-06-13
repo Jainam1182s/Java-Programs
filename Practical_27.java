@@ -1,3 +1,7 @@
+/*Question := Write a program that declares an abstract class A with an abstract method 
+              display( ). Provide subclasses A1 & A2 that each implements this method. 
+              Create instance of these subclasses & invoke that method. */
+
 abstract class A {
     public abstract void display();
 }
@@ -22,3 +26,9 @@ public class Practical_27 {
         a2.display();
     }
 }
+
+/*
+Output :=
+This is A1 class.
+This is A2 class.
+*/
