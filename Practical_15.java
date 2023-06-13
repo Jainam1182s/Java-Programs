@@ -1,3 +1,7 @@
+/*Question := Write a method with following method header. public static int gcd(int num1, int num2)
+              Write a program that prompts the user to enter two integers and compute the gcd of 
+              two integers */
+
 import java.util.Scanner;
 
 public class Practical_15 {
@@ -31,3 +35,11 @@ public class Practical_15 {
         gcd(a, b);
     }
 }
+
+/*
+Output := 
+Enter Two Integers := 
+15
+25
+5
+*/
