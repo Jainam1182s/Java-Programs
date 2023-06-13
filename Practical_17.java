@@ -1,3 +1,7 @@
+/*Question := Write a program that generate 6*6 two dimensional matrix, filled with 
+              0’s and 1’s , display the matrix, check every raw and column have an 
+              odd number’s of 1’s. */
+
 import java.util.Random;
 
 public class Practical_17 {
@@ -53,3 +57,22 @@ public class Practical_17 {
         isColumnOdd(arr);
     }
 }
+
+/*
+Output := 
+The 2D array is: 
+0 1 0 1 1 1 
+1 1 1 1 1 1 
+0 0 0 1 0 1 
+1 1 1 1 1 1 
+0 1 0 1 1 0 
+1 1 1 1 0 1 
+
+Row No. - 5 have ODD no of 1s
+Row No. - 6 have ODD no of 1s
+Column No. - 1 have ODD no of 1s
+Column No. - 2 have ODD no of 1s
+Column No. - 3 have ODD no of 1s
+Column No. - 6 have ODD no of 1s
+
+*/
