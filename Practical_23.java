@@ -1,3 +1,8 @@
+/*Question := Write a program that defines a Circle class with two constructors. The first 
+              form accepts a double value that represents the radius of the circle. The
+              second form accepts the integer radius of the circle and calculates the area 
+              of the circle. */
+
 import java.util.Scanner;
 
 public class Practical_23 {
@@ -21,3 +26,11 @@ public class Practical_23 {
         System.out.println("Area of the circle is := " + p2.Area);
     }
 }
+
+/*
+Output := 
+Enter Radius in Double := 
+23.66
+Area of the circle is := 1757.758184
+Area of the circle is := 1661.06
+*/
