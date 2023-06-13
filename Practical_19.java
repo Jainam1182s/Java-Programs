@@ -1,3 +1,5 @@
+/*Question := Write a program to do the addition of two matrices */
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -70,3 +72,28 @@ public class Practical_19 {
         matrixSum(row, col, arr1, arr2);
     }
 }
+
+/*
+Output :=
+Enter Number of Rows :=
+4
+Enter Number of Columns :=
+4
+The First array is: 
+8 4 5 1 
+2 3 4 6 
+4 2 5 6 
+2 1 2 0 
+
+The Second array is: 
+4 9 7 6 
+7 9 5 3 
+7 5 2 2 
+5 2 8 7 
+
+Sum of two Arrays := 
+12 13 12 7 
+9 12 9 9 
+11 7 7 8 
+7 3 10 7 
+*/
