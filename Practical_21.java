@@ -1,3 +1,7 @@
+/*Question := Write an application that declares a class named Person. It should have instance 
+              variables to record name, age & salary. Use the new operator to create a Person 
+              object. Set & display its instance variables.*/
+
 import java.util.Scanner;
 
 public class Practical_21 {
@@ -29,3 +33,19 @@ public class Practical_21 {
         pr.setData(pr.name, pr.age, pr.salary);
     }
 }
+
+/*
+Output := 
+Enter name of Person := 
+John
+Enter Age of := 
+20
+Enter Salary of := 
+25000
+
+=========================================================
+
+Name of Person is := John
+Age of John is := 20
+Salary of John is := 25000
+*/
