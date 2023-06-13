@@ -1,3 +1,7 @@
+/*Question := Create a class Vehicle, which has single variable NoOfWheels. Develop 
+              two subclasses, TwoWheeler and FourWheeler. Develop subclasses of 
+              these 2 subclasses. Create instances of these classes and print 
+              appropriate details. (use super keyword). */
 
 class Vehicle {
     protected int noOfWheels;
@@ -63,3 +67,18 @@ public class Practical_26 {
         SUV suv = new SUV();
     }
 }
+
+/*
+Output := 
+Type of vehicle  := Scooter
+Number of wheels := 2
+
+Type of vehicle  := Motorcycle
+Number of wheels := 2
+
+Type of vehicle  := Car
+Number of wheels := 4
+
+Type of vehicle  := SUV
+Number of wheels := 4
+*/
