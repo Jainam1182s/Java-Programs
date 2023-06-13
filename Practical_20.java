@@ -1,3 +1,4 @@
+/*Question := Write a program to implement the operation of stack using array */
 
 import java.util.Scanner;
 import static java.lang.System.exit;
@@ -106,5 +107,61 @@ public class Practical_20 {
             }
         }
     }
+
+    /*
+    Output := 
+    Enter Number of Elements := 
+5
+Enter Elements := 
+4
+3
+2
+7
+6
+1.DISPLAY
+2.POP
+3.PEEK
+4.EXIT
+1
+
+Stack elements := 
+6
+7
+2
+3
+4
+1.DISPLAY
+2.POP
+3.PEEK
+4.EXIT
+2
+
+6
+
+1.DISPLAY
+2.POP
+3.PEEK
+4.EXIT
+3
+
+7
+
+1.DISPLAY
+2.POP
+3.PEEK
+4.EXIT
+1
+
+Stack elements := 
+7
+2
+3
+4
+1.DISPLAY
+2.POP
+3.PEEK
+4.EXIT
+4
+    */
 }
 
