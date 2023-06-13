@@ -1,3 +1,6 @@
+/*Question := Write a program that prompts the user to enter a decimal number and displays 
+              the number in a fraction.*/
+
 import java.util.Scanner;
 
 public class Practical_13 {
@@ -13,3 +16,11 @@ public class Practical_13 {
         System.out.println("Fraction Part is := 0." + s1);
     }
 }
+
+/*
+Output :=
+Enter a Decimal Number as String := 
+23.7
+Integer Part is := 23
+Fraction Part is := 0.7
+*/
